@@ -1,0 +1,119 @@
+html{
+  scroll-behavior: smooth;
+}
+
+/* HEader */
+#title{
+  background-color: #1dd3bd;
+}
+
+
+
+/* NAVIGATION */
+.navbar-brand{
+  font-family: "Source Sans Pro";
+  font-size: 2em;
+  font-weight: bold;
+}
+
+
+/* INTRODUCTION */
+
+#introduction{
+  margin-top: 140px;
+}
+
+.intro-desc{
+  margin-top: 2%;
+}
+.my_name{
+  font-family: "Clicker Script";
+  font-size: 4rem;
+}
+
+.intro-btn-div{
+  margin-top: 5%;
+}
+
+.intro-btn{
+  margin: 2%;
+  text-align: center;
+}
+
+/* SKILL */
+
+#Skills{
+  margin-top: 150px;
+}
+
+.skill-lang{
+  padding-top: 3%;
+}
+
+.skill-tool{
+  padding-top: 3%;
+}
+.skill{
+  text-align: center;
+}
+
+.plang{
+  margin: 2% 5%;
+}
+
+.ptools{
+  padding: 1% 10%;
+}
+
+.skill-box{
+  text-align: center;
+}
+
+/* PROJECTS */
+#Projects{
+  margin-top: 150px;
+}
+
+.proj-div{
+  margin-top: 3%;
+}
+.proj-item{
+  margin-top: 3%;
+  text-align: center;
+}
+
+.proj-item-img{
+  object-fit: contain;
+}
+
+.proj-item-head{
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+/* CONTACT */
+
+#Contact{
+  margin-top: 150px;
+}
+.contacts-div{
+  padding-top: 3%;
+}
+
+.contact-item{
+  text-align:center;
+}
+
+.contact-img{
+  color: #303841;
+  margin-bottom: 2%;
+}
+
+.fab:hover{
+  color: #3498db;
+}
+
+#footer{
+  text-align: center;
+  color: #52616b;
+}
