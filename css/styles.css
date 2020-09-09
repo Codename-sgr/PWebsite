@@ -91,6 +91,11 @@ html{
   font-size: 1.3rem;
 }
 
+.proj-item-desc{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
 /* CONTACT */
 
 #Contact{
